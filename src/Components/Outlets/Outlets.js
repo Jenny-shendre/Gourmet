@@ -18,7 +18,7 @@ function Outlets() {
 
                 <div >
 
-                    <h2 className={classes.aboutTitle}>Prakash Food Junction</h2>
+                    <h2 className={classes.aboutTitle}>Jenny Food Junction</h2>
                     <p>
                         Provides a home-made delicious food to students and tenants.
                         Best Quality.
