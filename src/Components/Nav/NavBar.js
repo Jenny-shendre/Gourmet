@@ -71,7 +71,7 @@ function NavBar() {
       <div className="topNav">
         <ul>
           <li>
-            <PhoneIcon /> Phone : 97803 94444{" "}
+            <PhoneIcon /> Phone : 97803 94744{" "}
           </li>
           <li>
             <EmailIcon /> Email : @gaurmetfoodservices@gmail.com{" "}
