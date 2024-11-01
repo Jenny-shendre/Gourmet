@@ -41,7 +41,7 @@ function Footer() {
       </div>
 
 
-      <div className={classes.footer}>2022 Gourmet All rights reserved. Designed by BIT Students</div>
+      <div className={classes.footer}>2024 Gourmet All rights reserved. Designed by Jennifer Shendre</div>
 
     </div >
   );
